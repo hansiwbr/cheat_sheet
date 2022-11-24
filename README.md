@@ -12,7 +12,7 @@ code | englisch | deutsch
 *cd*|Change directory to some other location | Ändern Sie das Verzeichnis an einen anderen Ort
 *file*|View the type of any file | Zeigen Sie den Typ einer beliebigen Datei an
 
-##View, Create, Edit, and Delete Files and Directories
+## View, Create, Edit, and Delete Files and Directories
 
 code/befehle | englisch | deutsch
 --- | --- | ---
